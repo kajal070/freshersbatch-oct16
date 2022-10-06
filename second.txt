@@ -1,2 +1,2 @@
-Git is a distributed version control system which means 
+Git is a distributed VERSION CONTROL SYSTEM which means 
 it allows us to track changes locally in your computer as well as on remote.
