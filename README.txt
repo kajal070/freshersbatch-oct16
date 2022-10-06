@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Css makes html look nice.
+css makes HTML look nice.
 This assignment folder contain some css file.
 And also some javascript
 =======
